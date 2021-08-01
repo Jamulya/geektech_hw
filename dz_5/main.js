@@ -5,31 +5,15 @@
 //   this.taskday = taskday;
 // }
 // console.log(1, "Learn JS", 30);
-
 //2
-// var tasks = [
-    
+// var tasks = [  
 //  new Task("1", "Learn JS", "10"),
 //  new Task("5", "Learn React JS", "20"),
 //  new Task("10", "Learn Vue JS", "30"),
 // ]
-
 // for (const task of tasks) {
 //   console.log(task);
 // }
-
-//3
-// var tasks = ['proritet', 'description', 'taskday'];
-// var taskLengths = tasks.map(function(task) {
-//   return task.length;
-// });
-// console.log(taskLengths);
-
-// var newTasks = tasks.map(function(task) {
-//   return task.newTask;
-// })
-// console.log(tasks.newTask);
-
 //3
 // var tasks = [
 //   {proritet: '1', description: 'Learn JS', taskday: '10'},
@@ -40,25 +24,13 @@
 //   return task.description;
 // });
 // console.log(description);
-
 //4
 // var newTask = tasks.filter(tasks => {
 //     return tasks.taskday > 10
 // });
 // console.log(newTask);
-
 //5
 // var tResuce = tasks.reduce(function(proritet, current) {
 //   return proritet.prio > current.prio ? proritet : current;
 // },)
-
 // console.log((tResuce));
-
-
-
-
-
-
-
-
-
