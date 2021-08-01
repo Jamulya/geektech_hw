@@ -31,6 +31,6 @@
 // console.log(newTask);
 //5
 // var tResuce = tasks.reduce(function(proritet, current) {
-//   return proritet.prio > current.prio ? proritet : current;
+//   return proritet > current ? proritet : current;
 // },)
 // console.log((tResuce));
